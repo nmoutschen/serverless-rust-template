@@ -1,0 +1,5 @@
+[placeholders.architecture]
+type = "string"
+prompt = "What architecture do you want to use?"
+choices = ["x86_64", "arm64"]
+default = "x86_64"
